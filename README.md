@@ -24,7 +24,7 @@ Funcionalidades principais:
 1. **Clone o repositório:**
    ```sh
    git clone https://github.com/carlosdancr/waiterapp-client
-   cd client
+   cd waiterapp-client
    ```
 
 2. **Instale as dependências:**
