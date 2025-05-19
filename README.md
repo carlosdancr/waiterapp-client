@@ -47,7 +47,9 @@ Funcionalidades principais:
 ## 💡 Exemplos de Uso
 
 - **Visualização dos pedidos:** Acompanhe todos os pedidos em tempo real, separados por status (Fila de espera, Em preparação, Pronto).
+  
 - **Atualização de status:** Altere o status dos pedidos conforme o andamento do preparo.
+  
 - **Cancelamento de pedidos:** Cancele pedidos diretamente pela interface, com feedback visual imediato.
 
 ## 📄 Licença
