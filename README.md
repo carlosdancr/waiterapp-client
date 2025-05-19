@@ -23,7 +23,7 @@ Funcionalidades principais:
 
 1. **Clone o repositório:**
    ```sh
-   git clone https://github.com/carlosdancr/waiterapp-client
+   git clone https://github.com/carlosdancr/waiterapp-client.git
    cd waiterapp-client
    ```
 
